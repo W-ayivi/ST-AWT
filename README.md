@@ -111,3 +111,20 @@ If you use this work or refer to the method, please cite the paper once it becom
   journal = {Under review},
   year    = {2026}
 }
+
+
+
+
+
+Disclaimer
+
+This repository is intended for academic research purposes only. The method has been evaluated under a controlled experimental setting using pseudo-clean ultrasound references and synthetically generated speckle noise. It is not intended for direct clinical use without further validation on broader clinical datasets and expert assessment.
+
+
+Contact
+
+For questions about this work, please contact:
+
+Williams Ayivi
+University of Electronic Science and Technology of China
+School of Information and Communication Engineering
